@@ -4,7 +4,7 @@ public class Test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String hun="yes";
-		if(hun=="yes")
+		if(hun=="yes"|| hun=="YES")
 		{
 			System.out.println ("Eat Som");
 		}
