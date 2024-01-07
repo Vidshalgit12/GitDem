@@ -1,10 +1,10 @@
 
-public class Test1 {
+public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String hun="Yes";
-		if(hun=="yes" || hun=="YES")
+		String hun="yes";
+		if(hun=="yes"|| hun=="YES")
 		{
 			System.out.println ("Eat Som");
 		}
